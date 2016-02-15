@@ -1,5 +1,5 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-
+//version 005
 class Welcome extends CI_Controller {
 
 	/**
